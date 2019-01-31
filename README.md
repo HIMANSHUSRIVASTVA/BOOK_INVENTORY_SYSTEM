@@ -7,10 +7,8 @@ A Project based on Web Scrapping i.e, extracting data(legally) from a site and s
 
 ## Libraries Used:-
 1. Tkinter for GUI(Graphical User Interface)
-
- 2.SQLite3 for Database.
-
- 3.BeautifulSoup.
+2.SQLite3 for Database.
+3.BeautifulSoup.
 
 ## Screenshots:-
 
