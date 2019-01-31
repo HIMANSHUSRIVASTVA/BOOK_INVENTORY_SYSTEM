@@ -12,17 +12,17 @@ A Project based on Web Scrapping i.e, extracting data(legally) from a site and s
 
 ## Screenshots:-
 
-## First_Window-
+## 1.First_Window-
 ![alt text](https://github.com/HIMANSHUSRIVASTVA/BOOK_INVENTORY_SYSTEM/blob/master/FIRST_WINDOW.PNG)
 
-## SCRAP BUTTON_CLICK
+## 2.SCRAP BUTTON_CLICK
 
 ![alt text](https://github.com/HIMANSHUSRIVASTVA/BOOK_INVENTORY_SYSTEM/blob/master/NUMBER_OF_PAGES_YOU_WANT_TO_SCRAP.PNG)
 
-## SCRAPPED_DATA
+## 3.SCRAPPED_DATA
 
 ![alt text](https://github.com/HIMANSHUSRIVASTVA/BOOK_INVENTORY_SYSTEM/blob/master/SCRAPPED_DATA.PNG)
 
-## SCRAPPED DATA STORED IN DATABASE
+## 4.SCRAPPED DATA STORED IN DATABASE
 
 ![alt text](https://github.com/HIMANSHUSRIVASTVA/BOOK_INVENTORY_SYSTEM/blob/master/book_database.PNG)
