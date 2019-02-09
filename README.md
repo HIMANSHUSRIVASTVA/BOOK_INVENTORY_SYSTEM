@@ -13,11 +13,11 @@ A Project based on Web Scrapping i.e, extracting data(legally) from a site and s
 ## Screenshots:-
 
 ## 1.First_Window-
-![alt text](https://github.com/HIMANSHUSRIVASTVA/BOOK_INVENTORY_SYSTEM/blob/master/FIRST_WINDOW.PNG)
+![alt text](https://himanshusrivastva.github.io/BOOK_INVENTORY_SYSTEM/FIRST_WINDOW.PNG)
 
 ## 2.SCRAP BUTTON_CLICK
 
-![alt text](https://github.com/HIMANSHUSRIVASTVA/BOOK_INVENTORY_SYSTEM/blob/master/NUMBER_OF_PAGES_YOU_WANT_TO_SCRAP.PNG)
+![alt text](https://himanshusrivastva.github.io/BOOK_INVENTORY_SYSTEM/NUMBER_OF_PAGES_YOU_WANT_TO_SCRAP.PNG)
 
 ## 3.SCRAPPED_DATA
 
