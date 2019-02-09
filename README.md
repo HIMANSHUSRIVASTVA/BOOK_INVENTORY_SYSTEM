@@ -21,8 +21,8 @@ A Project based on Web Scrapping i.e, extracting data(legally) from a site and s
 
 ## 3.SCRAPPED_DATA
 
-![alt text](https://github.com/HIMANSHUSRIVASTVA/BOOK_INVENTORY_SYSTEM/blob/master/SCRAPPED_DATA.PNG)
+![alt text](https://himanshusrivastva.github.io/BOOK_INVENTORY_SYSTEM/SCRAPPED_DATA.PNG)
 
 ## 4.SCRAPPED DATA STORED IN DATABASE
 
-![alt text](https://github.com/HIMANSHUSRIVASTVA/BOOK_INVENTORY_SYSTEM/blob/master/book_database.PNG)
+![alt text](https://himanshusrivastva.github.io/BOOK_INVENTORY_SYSTEM/book_database.PNG)
