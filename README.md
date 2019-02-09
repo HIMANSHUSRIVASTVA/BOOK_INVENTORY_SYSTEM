@@ -3,7 +3,7 @@ A Project based on Web Scrapping i.e, extracting data(legally) from a site and s
 
 ## Topics Covered:-
 1. Web Scrapping or Data Extraction
-2. Extracting Data From a site and storing it in a databse.
+2. Extracting Data From a site and storing it in a database.
 
 ## Libraries Used:-
 1. Tkinter for GUI(Graphical User Interface)
